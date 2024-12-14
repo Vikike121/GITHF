@@ -1,0 +1,55 @@
+body{
+    
+    background-image: url(karacsony.jpg);
+    background-color: darkgoldenrod;
+    color: burlywood;
+    max-width: 1000px;
+    margin: auto;
+    font-family: "Verdana, Geneva, Tahoma", sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+}
+
+h1 {
+    color: rgb(215, 227, 239);
+    text-align: center;
+    text width: 100px;
+    
+
+}
+
+h2 {
+    padding: 10px;
+    color: rgb(255, 234, 73);
+    text-shadow: 0 0 20px #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200px;
+}
+
+img{
+    border-radius: 50%;
+    width: 400px;
+
+}
+
+p{
+    color: rgb(219, 183, 183);
+    height: 200;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: auto;
+    padding: 15px;
+
+}
+
+a{
+    color: rgb(228, 228, 86);
+    padding:10px;
+    margin: 40px;
+    border: 10px solid yellow;
+    border-radius: 50%;
+    background-color: rgb(67, 67, 6);
+    text-decoration: none;
+    text-align: center;
+}
